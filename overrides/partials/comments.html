@@ -1,5 +1,5 @@
 {% if page.meta.comments %}
-  <h2 id="__comments">{{ lang.t("meta.comments") }}</h2>
+  <hr>
   <!-- Insert generated snippet here -->
   <script src="https://giscus.app/client.js"
     data-repo="CCZU-OSSA/home"
@@ -10,9 +10,10 @@
     data-strict="0"
     data-reactions-enabled="1"
     data-emit-metadata="0"
-    data-input-position="bottom"
+    data-input-position="top"
     data-theme="preferred_color_scheme"
     data-lang="zh-CN"
+    data-loading="lazy"
     crossorigin="anonymous"
     async>
   </script>
@@ -24,7 +25,7 @@
     var palette = __md_get("__palette")
     if (palette && typeof palette.color === "object") {
       var theme = palette.color.scheme === "slate"
-        ? "noborder_gray"
+        ? "dark_dimmed"
         : "noborder_light"
 
       // Instruct Giscus to set theme
@@ -38,7 +39,7 @@
         var palette = __md_get("__palette")
         if (palette && typeof palette.color === "object") {
           var theme = palette.color.scheme === "slate"
-            ? "noborder_gray"
+            ? "dark_dimmed"
             : "noborder_light"
 
           // Instruct Giscus to change theme
