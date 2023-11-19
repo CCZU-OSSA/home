@@ -1,0 +1,65 @@
+site_name: 常州大学开源软件协会
+site_description: 常州大学学生社团组织 - 欢迎加群 947560153
+site_url: http://cczu-ossa.github.io/home
+site_author: CCZU-OSSA
+repo_name: CCZU-OSSA/home
+repo_url: https://github.com/CCZU-OSSA/home
+copyright: Copyright &copy; 2023 常州大学开源软件协会
+
+theme:
+  name: material
+  language: zh
+  plugins:
+    - blog:
+        post_url_date_format: yyyy/MM/dd
+        blog_dir: 博客
+        categories_allowed:
+          - Search
+          - Performance
+
+
+    - social:
+        cards_layout: default
+        cards_layout_options:
+          font_family: Noto Sans SC
+  features:
+    - header.autohide
+    - navigation.instant
+    - navigation.tracking
+    - content.code.annotate
+    - toc.integrate
+    - toc.follow
+    - navigation.path
+    - navigation.top
+    - navigation.tabs
+    - navigation.footer
+    - content.code.copy
+  icon:
+    repo: fontawesome/brands/github
+  palette: 
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: 切换暗色
+      primary: teal #, [red, pink, purple, deep, purple, indigo, blue, light blue, cyan, teal, green, light green, lime, yellow, amber, orange, deep orange, brown, grey, blue, grey, black, white]
+      accent: teal # [red, pink, purple, deep, purple, indigo, blue, light, blue, cyan, teal, green, light, green, lime, yellow, amber, orange, deep orange]
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal #, [red, pink, purple, deep, purple, indigo, blue, light blue, cyan, teal, green, light green, lime, yellow, amber, orange, deep orange, brown, grey, blue, grey, black, white]
+      accent: teal # [red, pink, purple, deep, purple, indigo, blue, light, blue, cyan, teal, green, light, green, lime, yellow, amber, orange, deep orange]
+      toggle:
+        icon: material/brightness-4
+        name: 切换亮色
+extra:
+  social:
+  - icon: fontawesome/brands/github
+    link: https://github.com/CCZU-OSSA
+  - icon: fontawesome/brands/qq
+    link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=6wgGLJ_NmKQl7f9Ws6JAprbTwmG9Ouei&authKey=g7bXX%2Bn2dHlbecf%2B8QfGJ15IFVOmEdGTJuoLYfviLg7TZIsZCu45sngzZfL3KktN&noverify=0&group_code=947560153
+  - icon: fontawesome/brands/discord
+    link: https://discord.gg/4GcpTTCh
