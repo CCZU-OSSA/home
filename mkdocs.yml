@@ -8,6 +8,7 @@ copyright: Copyright &copy; 2023 常州大学开源软件协会
 
 theme:
   name: material
+  custom_dir: overrides
   language: zh
   plugins:
     - blog:
@@ -27,13 +28,12 @@ theme:
     - navigation.instant
     - navigation.tracking
     - content.code.annotate
+    - content.code.copy
     - toc.integrate
     - toc.follow
     - navigation.path
     - navigation.top
     - navigation.tabs
-    - navigation.footer
-    - content.code.copy
   icon:
     repo: fontawesome/brands/github
   palette: 

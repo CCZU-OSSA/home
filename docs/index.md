@@ -1,5 +1,6 @@
 ---
 title: 主页
+comments: true
 ---
 
 # 常州大学开源软件协会
