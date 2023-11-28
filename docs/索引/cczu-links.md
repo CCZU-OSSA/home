@@ -10,6 +10,8 @@ date: 2023-11-20
 ## 院系部门
 
  - [学校首页](https://www.cczu.edu.cn/)
+ - [体育学院](http://pe.cczu.edu.cn/) 
+    - [体质健康测试查询](http://tiyu.cczu.edu.cn/stu)
  - [教务处](http://jwc.cczu.edu.cn/)
  - [图书馆](http://lib.cczu.edu.cn/)
 
