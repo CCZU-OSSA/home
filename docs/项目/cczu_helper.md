@@ -26,6 +26,15 @@ date: 2023-12-03
 
 ## 镜像地址
 
+### 1.0.1 (latest)
+
+看到有不少人用紧急修了下bug和加了个查看学期的功能，因为本应用没有签名，安装时记得把原来的卸载了😔~
+
+ - [(一般下这个即可)arm-v8a](https://mirror.ghproxy.com/https://github.com/CCZU-OSSA/cczu-helper/releases/download/v1.0.1/app-arm64-v8a-release.apk)
+ - [(通用版本)arm-All](https://mirror.ghproxy.com/https://github.com/CCZU-OSSA/cczu-helper/releases/download/v1.0.1/app-release.apk)
+
+### 1.0.0
+
  - [(一般下这个即可)arm-v8a](https://mirror.ghproxy.com/https://github.com/CCZU-OSSA/cczu-helper/releases/download/v1.0.0/app-arm64-v8a-release.apk)
  - [(通用版本)arm-All](https://mirror.ghproxy.com/https://github.com/CCZU-OSSA/cczu-helper/releases/download/v1.0.0/app-release.apk)
 
