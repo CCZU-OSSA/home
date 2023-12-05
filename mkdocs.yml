@@ -10,7 +10,7 @@ theme:
   name: material
   custom_dir: overrides
   favicon: assets/images/logo.png
-  logo: assets/images/logo.png
+  logo: assets/images/logo1.png
   language: zh
   plugins:
     - blog:
