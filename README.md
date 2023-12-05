@@ -8,9 +8,14 @@
 
 ## 编辑规范
 
+### 基础语法
+
 不会使用Markdown请先参考 [官方教程](https://markdown.com.cn/) 学习
 
-一级标题原则上只应该存在一个，其他标题按章节分级
+### 关于图床
+
+ - 使用图床，如果使用别的Github仓库作为图床，记得使用`mirror.ghproxy.com`进行代理
+ - 存放在 `docs/assets/images/你的用户名（不强制，能辨别即可）/文章名（不强制）/` 这个文件夹下
 
 ## 额外参数
 
@@ -35,6 +40,7 @@
 author: OSSA
 comments: true
 date: 2077-07-21
+title: 打了18年螺丝终于进入吊专了！
 ---
 ```
 
@@ -44,5 +50,5 @@ date: 2077-07-21
 |---|---|------|
 |comments|Boolean|是否打开评论|
 |author|String|作者名称|
+|title|String|文章标题，不存在则使用文件名|
 |date|String|日期|
-
