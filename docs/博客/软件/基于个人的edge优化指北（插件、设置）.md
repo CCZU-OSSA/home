@@ -4,7 +4,7 @@
 
 
 
-#### 前言
+## 前言
 
 本文章更新截止至**2023/12/5**，可能在后续edge更新中产生差异，请自行鉴别。
 
@@ -18,7 +18,7 @@
 
 
 
-# ***插件篇***
+## ***常用插件***
 
 ### SuperDrag
 
@@ -32,11 +32,11 @@
 
 看着就很有用！🤗（为什么我拖动文本要加入打开360呢？因为查找英文时bing可能会优先弹出英文网页而不是翻译😫，这时候国内的搜索引擎就会变得有用了🤗）
 
-## 有关于收藏夹浏览模式调整的插件
+### 有关于收藏夹浏览模式调整的插件
 
 我个人是很喜欢360的一键展开全部收藏夹的形式的(也因为可以一键展开，导致我养成了不建文件夹分类的习惯，而且调整收藏的网页的布局进行分类），第一次使用edge的收藏夹我真的被恶心到了，这么小的界面给谁看啊！而且我个人更习惯打开收藏夹右侧的”>“来打开收藏夹，edge的这种打开方式甚至连滚轮都不允许😨，而是要通过下移鼠标至底部的箭头才会缓~慢~移动😅，在这一块我尝试了许多插件，但是不知道是不是edge对插件进行了限制，插件打开的临时画面被限制在了很小的地方，在尝试多个插件后我对以下进行推荐：
 
-## 1.Ease Bookmarks
+### 1.Ease Bookmarks
 
 ![](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mikotoshire/Mikotoshire-/main/image-20231204200429479.png)
 
@@ -92,7 +92,7 @@
 
 ![](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mikotoshire/Mikotoshire-/main/PixPin_2023-12-04_18-07-48.gif)
 
-## Tab Position Options
+### Tab Position Options
 
 ![](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mikotoshire/Mikotoshire-/main/image-20231204183416593.png)
 
@@ -102,7 +102,7 @@
 
 这个插件可以让标签页的打开、关闭规则改变，比如edge关闭当前标签页后，默认配置下返回左侧或者右侧标签页都是有可能的。然而拖动鼠标打开链接都是在右侧打开，平时开新标签页查找东西也是右侧打开，所有我用这个插件把关闭标签页后返回的标签页固定在了左侧，更符合使用习惯。由于我是日语考生，英语并不熟悉，其它功能我没有去在意，大家也可以自己看看图内的内容，找找自己想要的功能。
 
-## Mouse Gestures - Power Mouse X [NEW]
+### Mouse Gestures - Power Mouse X [NEW]
 
 ![](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mikotoshire/Mikotoshire-/main/image-20231205093218956.png)
 
@@ -132,7 +132,7 @@
 
 
 
-# ***设置篇***
+## ***设置篇***
 
 其实我很不理解为什么很多重要的调整相关选项都被放在了“外观”一栏，大家有想调整的设置其实只需要完整遍历一遍全部内容就可以了，我这里可以为大家做个简易的导航。
 
@@ -232,6 +232,6 @@
 
 ------
 
-# 结束啦！
+## 结束啦！
 
 至此，本篇文章已经结束，有其他疑问的可以前往**OSSA（QQ：947560153）**询问哦~
