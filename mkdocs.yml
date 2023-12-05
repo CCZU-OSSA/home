@@ -9,8 +9,8 @@ copyright: Copyright &copy; 2023 常州大学开源软件协会
 theme:
   name: material
   custom_dir: overrides
-  favicon: assets/images/logo.png
-  logo: assets/images/logo1.png
+  favicon: assets/images/favicon.png
+  logo: assets/images/logo.png
   language: zh
   plugins:
     - blog:
