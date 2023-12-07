@@ -31,7 +31,6 @@ theme:
     - navigation.tracking
     - content.code.annotate
     - content.code.copy
-    - toc.integrate
     - toc.follow
     - navigation.path
     - navigation.top
