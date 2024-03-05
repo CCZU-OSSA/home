@@ -1,10 +1,22 @@
 site_name: 常州大学开源软件协会
-site_description: 常州大学学生社团组织 - 欢迎加群 947560153
+site_description: 常州大学学生非社团自由组织 - 欢迎加群 947560153
 site_url: http://cczu-ossa.github.io/home
 site_author: CCZU-OSSA
 repo_name: CCZU-OSSA/home
 repo_url: https://github.com/CCZU-OSSA/home
 copyright: Copyright &copy; 2023 常州大学开源软件协会
+
+
+nav:
+  - 主页: index.md
+  - 索引:
+    - indexs/for-fresher.md
+    - indexs/cczu-links.md
+  - 博客:
+    - 软件相关:
+      - blog/software/edge-plugins-optimize.md
+    - 硬件相关:
+      - blog/hardware/index.md
 
 theme:
   name: material
@@ -19,7 +31,6 @@ theme:
         categories_allowed:
           - Search
           - Performance
-
 
     - social:
         cards_layout: default
