@@ -1,10 +1,15 @@
+---
+comments: true
+date: 2023-12-05
+author: 岚裘
+---
+
+
 # 基于个人的edge优化指北（插件、设置）
 
 ------
 
-
-
-#### 前言
+## 前言
 
 本文章更新截止至**2024/3/4**，可能在后续edge更新中产生差异，请自行鉴别。
 
@@ -18,13 +23,15 @@
 
 
 
-# ***插件篇***
+## ***插件篇***
 
-### SuperDrag
+### 一些好用的插件
+
+#### SuperDrag
 
 ![](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mikotoshire/Mikotoshire-/main/image-20231204171928354.png)
 
-在edge的拓展中久可以找到，他可以自定义你拖动文本、链接时的效果，包括拖动文本、链接、图片时的效果，以及打开廉价位于前台（跳转至标签页）还是后台（不进行跳转），简直太太太好用😋
+在edge的拓展中就可以找到，他可以自定义你拖动文本、链接时的效果，包括拖动文本、链接、图片时的效果，以及打开链接位于前台（跳转至标签页）还是后台（不进行跳转），简直太太太好用😋
 
 以下是个人设置及具体效果
 
@@ -32,11 +39,11 @@
 
 看着就很有用！🤗（为什么我拖动文本要加入打开360呢？因为查找英文时bing可能会优先弹出英文网页而不是翻译😫，这时候国内的搜索引擎就会变得有用了🤗）
 
-## 有关于收藏夹浏览模式调整的插件
+#### 有关于收藏夹浏览模式调整的插件
 
 我个人是很喜欢360的一键展开全部收藏夹的形式的(也因为可以一键展开，导致我养成了不建文件夹分类的习惯，而且调整收藏的网页的布局进行分类），第一次使用edge的收藏夹我真的被恶心到了，这么小的界面给谁看啊！而且我个人更习惯打开收藏夹右侧的”>“来打开收藏夹，edge的这种打开方式甚至连滚轮都不允许😨，而是要通过下移鼠标至底部的箭头才会缓~慢~移动😅，在这一块我尝试了许多插件，但是不知道是不是edge对插件进行了限制，插件打开的临时画面被限制在了很小的地方，在尝试多个插件后我对以下进行推荐：
 
-## 1.Ease Bookmarks
+##### Ease Bookmarks
 
 ![](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mikotoshire/Mikotoshire-/main/image-20231204200429479.png)
 
@@ -52,7 +59,7 @@
 
 最多支持8列，在大量插件中是我找到的信息量最大的，也可以用滚轮快捷地滚动，可惜限制了列数导致它在收藏增加的情况下逐渐改变前面的布局，我个人是更希望有一个限制每列行数、可以自动增添行数的插件的（当然！如果你找到了更好的插件，很高兴你能提出给我！我很需要！我会对文章进行对应的修改🤗）
 
-### 2.Markoob - 书签启动器
+##### Markoob - 书签启动器
 
 ![](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mikotoshire/Mikotoshire-/main/image-20231204175107851.png)
 
@@ -92,7 +99,7 @@
 
 ![](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mikotoshire/Mikotoshire-/main/PixPin_2023-12-04_18-07-48.gif)
 
-## Tab Position Options
+##### Tab Position Options
 
 ![](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mikotoshire/Mikotoshire-/main/image-20231204183416593.png)
 
@@ -102,7 +109,7 @@
 
 这个插件可以让标签页的打开、关闭规则改变，比如edge关闭当前标签页后，默认配置下返回左侧或者右侧标签页都是有可能的。然而拖动鼠标打开链接都是在右侧打开，平时开新标签页查找东西也是右侧打开，所有我用这个插件把关闭标签页后返回的标签页固定在了左侧，更符合使用习惯。由于我是日语考生，英语并不熟悉，其它功能我没有去在意，大家也可以自己看看图内的内容，找找自己想要的功能。
 
-## Mouse Gestures - Power Mouse X [NEW]
+##### Mouse Gestures - Power Mouse X [NEW]
 
 ![](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mikotoshire/Mikotoshire-/main/image-20231205093218956.png)
 
@@ -110,21 +117,21 @@
 
 ![](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mikotoshire/Mikotoshire-/main/202312050946270.png)
 
-## 一些自不必说的插件
+### 一些自不必说的插件
 
-### Adblock Plus - 免费的广告拦截器
+#### Adblock Plus - 免费的广告拦截器
 
 ![](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mikotoshire/Mikotoshire-/main/202312050948360.png)
 
-### Cookie-Editor
+#### Cookie-Editor
 
 ![](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mikotoshire/Mikotoshire-/main/202312050948990.png)
 
-### 篡改猴
+#### 篡改猴
 
 ![](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mikotoshire/Mikotoshire-/main/202312050949541.png)
 
-###  沉浸式翻译: 双语对照网页翻译 & PDF文档翻译
+####  沉浸式翻译: 双语对照网页翻译 & PDF文档翻译
 
 ![](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Mikotoshire/Mikotoshire-/main/202312050950763.png)
 
@@ -134,7 +141,7 @@
 
 ------
 
-# ***设置篇***
+## ***设置篇***
 
 其实我很不理解为什么很多重要的调整相关选项都被放在了“外观”一栏，大家有想调整的设置其实只需要完整遍历一遍全部内容就可以了，我这里可以为大家做个简易的导航。
 
@@ -234,6 +241,6 @@
 
 ------
 
-# 结束啦！
+## 结束啦！
 
 至此，本篇文章已经结束，有其他疑问的可以前往**OSSA（QQ：947560153）**询问哦~
