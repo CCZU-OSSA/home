@@ -13,10 +13,14 @@ nav:
     - indexs/for-fresher.md
     - indexs/cczu-links.md
   - 博客:
+    - blog/index.md
     - 软件相关:
       - blog/software/edge-plugins-optimize.md
     - 硬件相关:
       - blog/hardware/index.md
+  - 项目:
+    - project/cczu-helper.md
+
 
 theme:
   name: material
