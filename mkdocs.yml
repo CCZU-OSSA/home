@@ -81,3 +81,5 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
+  - toc:
+      permalink: '§'
