@@ -82,4 +82,4 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - toc:
-      permalink: '§'
+      permalink: '¶'
