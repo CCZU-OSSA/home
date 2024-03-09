@@ -7,7 +7,7 @@ repo_url: https://github.com/CCZU-OSSA/home
 copyright: Copyright &copy; 2023 常州大学开源软件协会
 
 nav:
-  - 主页: index.md
+  - 主页: home/index.md
   - 索引:
       - indexs/for-fresher.md
       - indexs/cczu-links.md
