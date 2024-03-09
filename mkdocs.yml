@@ -29,6 +29,7 @@ theme:
   plugins:
     - blog:
         post_url_date_format: yyyy/MM/dd
+        post_date_format: full
         blog_dir: 博客
         categories_allowed:
           - Search
@@ -53,21 +54,18 @@ theme:
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default
+      scheme: glow
       toggle:
         icon: material/brightness-7
         name: 切换暗色
-      primary: teal #, [red, pink, purple, deep, purple, indigo, blue, light blue, cyan, teal, green, light green, lime, yellow, amber, orange, deep orange, brown, grey, blue, grey, black, white]
-      accent: teal # [red, pink, purple, deep, purple, indigo, blue, light, blue, cyan, teal, green, light, green, lime, yellow, amber, orange, deep orange]
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: teal #, [red, pink, purple, deep, purple, indigo, blue, light blue, cyan, teal, green, light green, lime, yellow, amber, orange, deep orange, brown, grey, blue, grey, black, white]
-      accent: teal # [red, pink, purple, deep, purple, indigo, blue, light, blue, cyan, teal, green, light, green, lime, yellow, amber, orange, deep orange]
+      scheme: glow-dark
       toggle:
         icon: material/brightness-4
         name: 切换亮色
+
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -77,9 +75,21 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/zqhURaJ8
 
+extra_css:
+  - assets/fonts/ResourceHanRoundedCN-Bold/font.css
+  - assets/fonts/MapleMono-SC-NF-Bold/font.css
+  - assets/stylesheets/fonts.css
+  - assets/stylesheets/colorscheme.css
 markdown_extensions:
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
   - toc:
-      permalink: '¶'
+      permalink: "¶"
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true

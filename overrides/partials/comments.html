@@ -1,69 +1,58 @@
 {% if page.meta.comments or page.meta.author or page.meta.date %}
-  <hr>
+<hr>
 {% endif %}
 
 {% if page.meta.author %}
-  <small>作者: {{ page.meta.author }}</small>
-  <br>
+<small>作者: {{ page.meta.author }}</small>
+<br>
 {% endif %}
 
 {% if page.meta.date %}
-  <small>更新日期: {{ page.meta.date }}</small>
-  <br>
+<small>更新日期: {{ page.meta.date }}</small>
+<br>
 {% endif %}
 
 
 {% if page.meta.comments %}
-  <!-- Insert generated snippet here -->
-  <script src="https://giscus.app/client.js"
-    data-repo="CCZU-OSSA/home"
-    data-repo-id="R_kgDOKvV3EA"
-    data-category="Page Comment"
-    data-category-id="DIC_kwDOKvV3EM4CbFWh"
-    data-mapping="pathname"
-    data-strict="0"
-    data-reactions-enabled="1"
-    data-emit-metadata="0"
-    data-input-position="top"
-    data-theme="preferred_color_scheme"
-    data-lang="zh-CN"
-    data-loading="lazy"
-    crossorigin="anonymous"
-    async>
-  </script>
-  <!-- Synchronize Giscus theme with palette -->
-  <script>
+<!-- Insert generated snippet here -->
+<script src="https://giscus.app/client.js" data-repo="CCZU-OSSA/home" data-repo-id="R_kgDOKvV3EA"
+    data-category="Page Comment" data-category-id="DIC_kwDOKvV3EM4CbFWh" data-mapping="pathname" data-strict="0"
+    data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="preferred_color_scheme"
+    data-lang="zh-CN" data-loading="lazy" crossorigin="anonymous" async>
+    </script>
+<!-- Synchronize Giscus theme with palette -->
+<script>
     var giscus = document.querySelector("script[src*=giscus]")
 
     // Set palette on initial load
     var palette = __md_get("__palette")
     if (palette && typeof palette.color === "object") {
-      var theme = palette.color.scheme === "slate"
-        ? "dark_dimmed"
-        : "noborder_light"
-
-      // Instruct Giscus to set theme
-      giscus.setAttribute("data-theme", theme) 
-    }
-
-    // Register event handlers after documented loaded
-    document.addEventListener("DOMContentLoaded", function() {
-      var ref = document.querySelector("[data-md-component=palette]")
-      ref.addEventListener("change", function() {
-        var palette = __md_get("__palette")
-        if (palette && typeof palette.color === "object") {
-          var theme = palette.color.scheme === "slate"
+        var theme = palette.color.scheme === "glow-dark"
             ? "dark_dimmed"
             : "noborder_light"
 
-          // Instruct Giscus to change theme
-          var frame = document.querySelector(".giscus-frame")
-          frame.contentWindow.postMessage(
-            { giscus: { setConfig: { theme } } },
-            "https://giscus.app"
-          )
-        }
-      })
+        // Instruct Giscus to set theme
+        giscus.setAttribute("data-theme", theme)
+    }
+
+    // Register event handlers after documented loaded
+    document.addEventListener("DOMContentLoaded", function () {
+        var ref = document.querySelector("[data-md-component=palette]")
+        ref.addEventListener("change", function () {
+            var palette = __md_get("__palette")
+            if (palette && typeof palette.color === "object") {
+                var theme = palette.color.scheme === "slate"
+                    ? "dark_dimmed"
+                    : "noborder_light"
+
+                // Instruct Giscus to change theme
+                var frame = document.querySelector(".giscus-frame")
+                frame.contentWindow.postMessage(
+                    { giscus: { setConfig: { theme } } },
+                    "https://giscus.app"
+                )
+            }
+        })
     })
-  </script>
+</script>
 {% endif %}
