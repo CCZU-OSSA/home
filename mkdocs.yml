@@ -77,7 +77,7 @@ extra:
       link: https://discord.gg/zqhURaJ8
 
 extra_css:
-  - assets/fonts/ResourceHanRoundedCN-Bold/font.css
+  - assets/fonts/ResourceHanRoundedCN-Medium/font.css
   - assets/fonts/MapleMono-SC-NF-Bold/font.css
   - assets/stylesheets/fonts.css
   - assets/stylesheets/colorscheme.css
