@@ -24,43 +24,4 @@ date: 2023-12-03
 
 获取发行版 https://github.com/CCZU-OSSA/cczu-helper/releases/latest
 
-## 镜像地址
-
-### 1.0.1 (latest)
-
-看到有不少人用紧急修了下bug和加了个查看学期的功能，因为本应用没有签名，安装时记得把原来的卸载了😔~
-
- - [(一般下这个即可)arm-v8a](https://mirror.ghproxy.com/https://github.com/CCZU-OSSA/cczu-helper/releases/download/v1.0.1/app-arm64-v8a-release.apk)
- - [(通用版本)arm-All](https://mirror.ghproxy.com/https://github.com/CCZU-OSSA/cczu-helper/releases/download/v1.0.1/app-release.apk)
-
-### 1.0.0
-
- - [(一般下这个即可)arm-v8a](https://mirror.ghproxy.com/https://github.com/CCZU-OSSA/cczu-helper/releases/download/v1.0.0/app-arm64-v8a-release.apk)
- - [(通用版本)arm-All](https://mirror.ghproxy.com/https://github.com/CCZU-OSSA/cczu-helper/releases/download/v1.0.0/app-release.apk)
-
-其他版本自己去仓库找（
-
-## 为什么有这个
-
-*OSA有一个用于查询打卡和讲座前端项目CCZU Helper，这也算是延续了🤔*
-
-为什么吊大的体育打卡查询做的这么烂，为什么全是ASP.NET😡😡😡
-
-## 截图
-
-![#截图](https://mirror.ghproxy.com/https://github.com/CCZU-OSSA/cczu-helper/raw/main/doc/screenshot0.jpg)
-
-
-## 使用方法
-
-先去设置里设置学期和学号，然后在主页点击刷新等待几分钟(?)即可🥰
-
-## 关于学期
-
-体育打卡网站 http://202.195.100.156:808/
-
-按下 F12 打开 Dev Tool 选择元素移到学期框上就能定位找到
-
-`value`的值是你需要的，例如我想查`23-24-1`，它的`value`就是81，而你需要在设置里填写81
-
-![#截图](https://mirror.ghproxy.com/https://github.com/CCZU-OSSA/cczu-helper/raw/main/doc/screenshot1.png)
+## 我知道你很急，但你先别急
