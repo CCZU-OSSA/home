@@ -19,6 +19,9 @@ nav:
           - blog/hardware/index.md
   - 项目:
       - project/cczu-helper.md
+  - PDF:
+      - pdf/index.md
+      - CMCC校园网路由配置: pdf/cczu-cmcc-router.pdf
   - 留言板:
       - chat/index.md
 theme:
