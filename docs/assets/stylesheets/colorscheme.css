@@ -36,6 +36,7 @@
     --md-default-bg-color--lighter: hsla(var(--md-hue), var(--md-saturation), var(--md-lightness), 0.26);
     --md-default-bg-color--lightest: hsla(var(--md-hue), var(--md-saturation), var(--md-lightness), 0.07);
     --md-code-bg-color: hsla(var(--md-hue), 3%, 15%, 1);
+    --md-code-fg-color: hsla(var(--md-hue), 3%, 67%, 1);
     --md-typeset-color: var(--md-default-fg-color);
 
     --md-typeset-mark-color: #ffb7424d;
