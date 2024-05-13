@@ -61,22 +61,17 @@
 
 ```markdown
 ---
-author: OSSA
 comments: true
-date: 2077-07-21
 title: 你说得对，但是CCZU后面忘了
 ---
 ```
 
 #### 参数表
 
-|参数名称|参数类型|参数说明|
-|---|---|------|
-|comments|Boolean|是否打开评论|
-|author|String|作者名称|
-|title|String|文章标题，不存在则使用文件名|
-|date|String|日期|
-
+| 参数名称 | 参数类型 | 参数说明                     |
+| -------- | -------- | ---------------------------- |
+| comments | Boolean  | 是否打开评论                 |
+| title    | String   | 文章标题，不存在则使用文件名 |
 
 ### 建立导航
 

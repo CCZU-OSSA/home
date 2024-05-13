@@ -1,7 +1,5 @@
 ---
 title: 吊州大学新生入门指北（吊大生存指南）
-date: 2024-03-05
-author: OSSA
 comments: true
 ---
 

@@ -5,6 +5,7 @@ site_author: CCZU-OSSA
 repo_name: CCZU-OSSA/home
 repo_url: https://github.com/CCZU-OSSA/home
 copyright: Copyright &copy; 2023 常州大学开源软件协会
+edit_uri: edit/main/docs/
 
 nav:
   - 主页: index.md
@@ -47,6 +48,8 @@ theme:
     - navigation.tracking
     - content.code.annotate
     - content.code.copy
+    - content.action.edit
+    - content.action.view
     - toc.follow
     - navigation.path
     - navigation.top
@@ -97,3 +100,10 @@ markdown_extensions:
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      locale: zh
+      fallback_to_build_date: true
+  - git-authors
