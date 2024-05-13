@@ -12,6 +12,7 @@ nav:
   - 索引:
       - indexs/for-fresher.md
       - indexs/cczu-links.md
+      - indexs/projects.md
   - 博客:
       - blog/index.md
       - 软件相关:
@@ -86,7 +87,9 @@ extra_css:
   - assets/stylesheets/fonts.css
   - assets/stylesheets/colorscheme.css
 markdown_extensions:
+  - admonition
   - pymdownx.caret
+  - pymdownx.details
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.inlinehilite
@@ -103,6 +106,7 @@ markdown_extensions:
 
 plugins:
   - search
+  - offline
   - git-revision-date-localized:
       locale: zh
       fallback_to_build_date: true
