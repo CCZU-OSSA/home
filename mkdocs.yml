@@ -110,4 +110,6 @@ plugins:
   - git-revision-date-localized:
       locale: zh
       fallback_to_build_date: true
-  - git-authors
+  - git-committers:
+      repository: CCZU-OSSA/home
+      branch: main
