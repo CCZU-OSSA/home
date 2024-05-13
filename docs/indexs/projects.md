@@ -21,6 +21,11 @@ comments: true
 
 如果下载太慢或者无法下载请打开 https://mirror.ghproxy.com 粘贴下载地址下载
 
+!!! warning
+
+    如果你下载了 1.0.0/1.0.1 请先卸载原来的版本，从此版本开始提供签名而不使用Debug签名
+
+
 ## CCZU Client API
 
 仓库地址 https://github.com/CCZU-OSSA/cczu-client-api
