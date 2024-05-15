@@ -92,7 +92,7 @@ acmer指的是，参加XCPC系列比赛的选手。
 
 ## 刷题网站
 
-[力扣 (LeetCode)](https://leetcode.cn/)求职必备，刷刷里面的hot100就够应付大部分面试了。但是题目大部分语言都是用类封装好了，如果你还不会面向对象，可以先学习一下。力扣有周赛和双周赛，挺好玩的，打的人也不少，如果你竞赛积分能打到1800以上，拿到knight牌，面试应该没什么大问题。有非常多高质量的题解，你能在这里找到各种冷门语言的题解。
+🥳[力扣 (LeetCode)](https://leetcode.cn/)求职必备，刷刷里面的hot100就够应付大部分面试了。但是题目大部分语言都是用类封装好了，如果你还不会面向对象，可以先学习一下。力扣有周赛和双周赛，挺好玩的，打的人也不少，如果你竞赛积分能打到1800以上，拿到knight牌，面试应该没什么大问题。有非常多高质量的题解，你能在这里找到各种冷门语言的题解。
 
 [蓝桥云课](https://www.lanqiao.cn/cup/)蓝桥官方的oj，有官方的卖课（我没看过），还有往年题目。每两周有双周赛，奖金是真的多啊，相比洛谷，力扣等平台。如果你想打蓝桥杯，考前刷这个就对了。
 
@@ -100,11 +100,11 @@ acmer指的是，参加XCPC系列比赛的选手。
 
 接下来是**需求3**所需的：
 
-[洛谷](https://www.luogu.com.cn/)oi爷的主场，里面多大是初高中oier。个人感觉，题解质量参差不齐。洛谷月赛质量不错，可以打打。还有其他平台的题目，一般也都会搬到洛谷上。
+🥳[洛谷](https://www.luogu.com.cn/)oi爷的主场，里面多大是初高中oier。个人感觉，题解质量参差不齐。洛谷月赛质量不错，可以打打。还有其他平台的题目，一般也都会搬到洛谷上。
 
-[Codeforces](https://mirror.codeforces.com/)世界上最大的刷题网站，里面的比赛分为div1,2,3,4级别，思维题较多，刚开始可以打div3,4。div2的前两题。gym里面有各地区域赛，网络赛，省赛的题目。不过codeforces比赛的作息比较阴间，常在凌晨。
+🥳[Codeforces](https://mirror.codeforces.com/)世界上最大的刷题网站，里面的比赛分为div1,2,3,4级别，思维题较多，刚开始可以打div3,4。div2的前两题。gym里面有各地区域赛，网络赛，省赛的题目。不过codeforces比赛的作息比较阴间，常在凌晨。
 
-[AtCoder](https://atcoder.jp/)日本的刷题网站，比赛中ABC（AtCoder Beginner Contest）对新人比较友好，题目考察的知识点也比较全面，不像cf那么极端，时间和题目都是。
+🥳[AtCoder](https://atcoder.jp/)日本的刷题网站，比赛中ABC（AtCoder Beginner Contest）对新人比较友好，题目考察的知识点也比较全面，不像cf那么极端，时间和题目都是。
 
 [牛客竞赛](https://ac.nowcoder.com/)牛客虽然是个招聘软件，但最近的周赛越办越好了。有小白月赛，练习赛，挑战赛。里面的牛客多校灰常适合acmer练习。
 
@@ -118,17 +118,17 @@ acmer指的是，参加XCPC系列比赛的选手。
 
 #### 免费的
 
-[代码随想录](https://programmercarl.com)带我入门的网站，卡哥的教程还是不错的，而且免费，b站还都有配套视频，各种语言都有。[他的b站地址](https://space.bilibili.com/525438321?spm_id_from=333.337.0.0)。
+🥳[代码随想录](https://programmercarl.com)带我入门的网站，卡哥的教程还是不错的，而且免费，b站还都有配套视频，各种语言都有。[他的b站地址](https://space.bilibili.com/525438321?spm_id_from=333.337.0.0)。
 
-[labuladong 的算法笔记](https://labuladong.online/algo/home/)网上风评不错，和代码随想录有点类似，但这网站做了代码可视化插件，更容易理解。[他的b站地址](https://space.bilibili.com/14089380?spm_id_from=333.999.0.0)。
+🥳[labuladong 的算法笔记](https://labuladong.online/algo/home/)网上风评不错，和代码随想录有点类似，但这网站做了代码可视化插件，更容易理解。[他的b站地址](https://space.bilibili.com/14089380?spm_id_from=333.999.0.0)。
 
 下面的b站的各种up主：
 
 [算法大师兄](https://space.bilibili.com/1784235102?spm_id_from=333.999.0.0)英雄哥，发的视频比较偏娱乐。他csdn“夜深人静写算法”的收费专栏，我看过免费部分，感觉质量还是很高的。（英雄哥是hdu第一届打入worldfinal的）。[他的b站大号](https://space.bilibili.com/319521269?spm_id_from=333.999.0.0)。
 
-[灵茶山艾府](https://space.bilibili.com/206214?spm_id_from=333.999.0.0)我灵伟大，🖐️需多言。如果你打力扣，那必看灵神！
+🥳[灵茶山艾府](https://space.bilibili.com/206214?spm_id_from=333.999.0.0)我灵伟大，🖐️需多言。如果你打力扣，那必看灵神！
 
-[董晓算法](https://space.bilibili.com/517494241?spm_id_from=333.999.0.0)视频更了好几年，已经比较全面了。图解会讲的很清楚，我看很多考研的也看这个。
+🥳[董晓算法](https://space.bilibili.com/517494241?spm_id_from=333.999.0.0)视频更了好几年，已经比较全面了。图解会讲的很清楚，我看很多考研的也看这个。
 
 [左程云](https://space.bilibili.com/8888480?spm_id_from=333.999.0.0)我经常在各种卖课的地方看到他，他讲的视频也不错。
 
@@ -136,35 +136,35 @@ acmer指的是，参加XCPC系列比赛的选手。
 
 下面的主要各种比赛的讲解up：
 
-[RegenFallen](https://space.bilibili.com/23358007?spm_id_from=333.999.0.0)小码王的教练，群里氛围不错。如果你刚开始打codeforces和atc，看看他每场的题解也不错，讲的简单题，比较容易理解。
+🥳[RegenFallen](https://space.bilibili.com/23358007?spm_id_from=333.999.0.0)小码王的教练，群里氛围不错。如果你刚开始打codeforces和atc，看看他每场的题解也不错，讲的简单题，比较容易理解。
 
 [幻想家协会会长](https://space.bilibili.com/55927668?spm_id_from=333.999.0.0)会讲cf和atc比较难的题，但个人感觉讲的没regen容易懂。但他最近开始搬运atc的4分钟题解，如果你不会上油管，也可以看看他的搬运。atc的题解还是很有意思的。
 
 下面主要是打比赛实况视频的大神：
 
-[jiangly](https://space.bilibili.com/130648068/?spm_id_from=333.999.0.0)世界第一的含金量，无需多盐。
+[jiangly](https://space.bilibili.com/130648068/?spm_id_from=333.999.0.0)世界第一的含金量，🖐️需多盐。
 
 [小羊肖恩Yawn_Sean](https://space.bilibili.com/193004900?spm_id_from=333.999.0.0)羊神，常年霸占力扣前几。粉丝群经常抽奖品。一般出力扣比赛实况。还有蓝桥云课的周赛，很多是他出题，他也会放题解。
 
 #### 付费的
 
-[英雄哥的专栏](https://blog.csdn.net/whereisherofrom/category_9273531.html)999.98元的价格，慎入，有钱随意。
+[英雄哥的专栏](https://blog.csdn.net/whereisherofrom/category_9273531.html)**999.98元**的价格，慎入，有钱随意。
 
-[AcWing](https://www.acwing.com/activity/)不少人说这个算法基础课不错，不过因为y总(网站老板)各种各样的原因，导致最近两年风评一般。你要是有闲钱，买这个基础课看看也无所谓。200**元**的售价。
+[AcWing](https://www.acwing.com/activity/)不少人说这个算法基础课不错，不过因为y总(网站老板)各种各样的原因，导致最近两年风评一般。你要是有闲钱，买这个基础课看看也无所谓。**200元**的售价。
 
-[Erik_Tse](https://space.bilibili.com/231911980?spm_id_from=333.999.0.0)喜欢卖课的e宝，经常恰蓝桥官方的米出点课。他的课比较便宜，有时候就**2,30元。**
+[Erik_Tse](https://space.bilibili.com/231911980?spm_id_from=333.999.0.0)喜欢卖课的e宝，经常恰蓝桥官方的米出点课。他的课比较便宜，有时候就**2,30元**，而且你可以加群问东西。
 
 #### 辅助工具
 
 [VisuAlgo](https://visualgo.net/zh)通过动画可视化数据结构和算法的网站，方便你理解各种算法。
 
-[OI Wiki](https://oi-wiki.org//)算法届的百科全书。
+🥳[OI Wiki](https://oi-wiki.org//)算法届的百科全书。
 
 ### 实体书籍
 
 实体书籍的代码基本是C++撰写。
 
-[算法竞赛（清华大学出版社）](http://www.tup.tsinghua.edu.cn/booksCenter/book_08808001.html)。白皮书，罗勇军写的，前两年才刚出，知识点非常全面，在比赛中，我看很多人带的板子也都是这一本，个人**十分推荐**！我在qq群文件里面放了。
+🥳[算法竞赛（清华大学出版社）](http://www.tup.tsinghua.edu.cn/booksCenter/book_08808001.html)。白皮书，罗勇军写的，前两年才刚出，知识点非常全面，在比赛中，我看很多人带的板子也都是这一本，个人**十分推荐**！我在qq群文件里面放了。
 
 [算法导论（麻省理工学院出版社）](https://baike.baidu.com/item/算法导论/1775186)。黑皮书，里面的数学论证较多，如果你喜欢严谨的论证，这本书一定很适合你。不过难度很大，**慎入**。
 
