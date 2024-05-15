@@ -102,7 +102,7 @@ acmer指的是，参加XCPC系列比赛的选手。
 
 [洛谷](https://www.luogu.com.cn/)oi爷的主场，里面多大是初高中oier。个人感觉，题解质量参差不齐。洛谷月赛质量不错，可以打打。还有其他平台的题目，一般也都会搬到洛谷上。
 
-[Codeforces](https://mirror.codeforces.com/)世界上最大的刷题网站，里面的比赛分为div1,2,3,4级别，思维题较多，刚开始可以打div3,4。div2的前两题。gym里面有各地区域赛，网络赛，省事的题目。不过codeforces比赛的作息比较阴间，常在凌晨。
+[Codeforces](https://mirror.codeforces.com/)世界上最大的刷题网站，里面的比赛分为div1,2,3,4级别，思维题较多，刚开始可以打div3,4。div2的前两题。gym里面有各地区域赛，网络赛，省赛的题目。不过codeforces比赛的作息比较阴间，常在凌晨。
 
 [AtCoder](https://atcoder.jp/)日本的刷题网站，比赛中ABC（AtCoder Beginner Contest）对新人比较友好，题目考察的知识点也比较全面，不像cf那么极端，时间和题目都是。
 
