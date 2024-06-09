@@ -19,6 +19,8 @@ nav:
           - blog/software/edge-plugins-optimize.md
       - 硬件相关:
           - blog/hardware/index.md
+      - 算法相关:
+          - blog/algorithm/guide-to-algorithm-competitions.md
   - PDF:
       - pdf/index.md
       - CMCC校园网路由配置: pdf/cczu-cmcc-router.pdf
