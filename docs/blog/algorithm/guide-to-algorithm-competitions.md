@@ -48,9 +48,9 @@ acmer指的是，参加XCPC系列比赛的选手。
 
 [团体程序设计天梯赛](https://gplt.patest.cn/regulation)基本模拟，暴力，阅读理解。国三不难，爆的米也不少🥳。
 
-[百度之星](https://astar2019.baidu.com/design.html)我还没打过。看群友说，题目还可以，给的奖品也ok。
+[百度之星](https://astar2019.baidu.com/design.html)今年打了一场，4题，省二中游。手速4题可以省一，难度大概介于蓝桥杯和xcpc之间。题目质量还是可以的，但对算法基础要求比较高，比如二分最大化最小值，字符串哈希这些你得会。
 
-[CCF CAT- 全国算法精英大赛](https://conf.ccf.org.cn/web/html5/index.html?globalId=m1212437103980449792170910913158&type=1)还没打过，给的钱少，学校还不爆米。题目质量群友说拉胯。
+[CCF CAT- 全国算法精英大赛](https://conf.ccf.org.cn/web/html5/index.html?globalId=m1212437103980449792170910913158&type=1)今年也打了一场，题目也挺难的，3人赛（可以跨校组队），把几个签到题写了，省三都没有。而且这个比赛爆米很少。
 
 ## 付出与回报
 
