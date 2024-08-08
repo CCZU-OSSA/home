@@ -19,6 +19,8 @@ nav:
           - blog/software/edge-plugins-optimize.md
       - 硬件相关:
           - blog/hardware/index.md
+      - 技术相关:
+          - blog/tech/what-to-learn.md
       - 算法相关:
           - blog/algorithm/guide-to-algorithm-competitions.md
   - PDF:
@@ -97,6 +99,7 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - pymdownx.magiclink
   - attr_list
   - md_in_html
   - toc:
