@@ -80,7 +80,7 @@ OSSA的GUI应用
 
 #### GUI
 
-这里只写一下我了解的，按我个人的推荐顺序排序
+这里只写一下我了解的
 
  - Dart (Flutter)
     - 更推荐阅读未翻译的版本: https://docs.flutter.cn/ 
