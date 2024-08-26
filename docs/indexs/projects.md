@@ -25,6 +25,13 @@ comments: true
 
     如果你下载了 1.0.0/1.0.1 请先卸载原来的版本，从此版本开始提供签名而不使用Debug签名
 
+## CCZU EVA
+
+一键教师评价
+
+[![ScreenShot](https://mirror.ghproxy.com/https://raw.githubusercontent.com/CCZU-OSSA/cczu-eva/main/doc/screenshot.png)](https://github.com/CCZU-OSSA/cczu-eva/releases/latest)
+
+Get in Github: https://github.com/CCZU-OSSA/cczu-eva/releases/latest
 
 ## CCZUNI
 
