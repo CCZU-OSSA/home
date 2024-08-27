@@ -19,6 +19,13 @@ OSSA与前辈OSA一样，成立的宗旨是传递开源精神与提高技术水�
  - [QQ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=6wgGLJ_NmKQl7f9Ws6JAprbTwmG9Ouei&authKey=g7bXX%2Bn2dHlbecf%2B8QfGJ15IFVOmEdGTJuoLYfviLg7TZIsZCu45sngzZfL3KktN&noverify=0&group_code=947560153)
  - [Discord](https://discord.gg/hkkmsQaBGQ)
 
+## 速览
+
+ - [我们的项目](./indexs/projects.md)
+ - [新生入门指北](./indexs/for-fresher.md)
+ - [算法入门指北](./blog/algorithm/guide-to-algorithm-competitions.md)
+ - [我该学习什么技术](./blog/tech/what-to-learn.md)
+
 ## OSA与OSSA
 
 [OSA](https://github.com/cczu-osa)由前会长[RC](https://github.com/stdrc)于2018年创建，有许多很有意思的项目，也举办了许多活动。
