@@ -13,7 +13,7 @@ comments: true
 
 ### 下载
 
-#### v1.2.4
+#### v1.2.5
 
 [![ScreenShot](https://mirror.ghproxy.com/https://raw.githubusercontent.com/CCZU-OSSA/cczu-helper/main/doc/screenshot.png)](https://github.com/CCZU-OSSA/cczu-helper/releases/latest)
 
