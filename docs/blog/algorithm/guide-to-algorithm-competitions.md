@@ -1,10 +1,8 @@
----
-comments: true
----
-
-# 算法竞赛入门指北
+#  算法竞赛入门指北
 
 ## 前言
+
+善用目录。
 
 **QQ交流群**：311107699🥰
 
@@ -121,8 +119,6 @@ acmer指的是，参加XCPC系列比赛的选手。
 
 🥳[代码随想录](https://programmercarl.com)带我入门的网站，卡哥的教程还是不错的，而且免费，b站还都有配套视频，各种语言都有。[他的b站地址](https://space.bilibili.com/525438321?spm_id_from=333.337.0.0)。
 
-🥳[labuladong 的算法笔记](https://labuladong.online/algo/home/)网上风评不错，和代码随想录有点类似，但这网站做了代码可视化插件，更容易理解。[他的b站地址](https://space.bilibili.com/14089380?spm_id_from=333.999.0.0)。
-
 下面的b站的各种up主：
 
 [算法大师兄](https://space.bilibili.com/1784235102?spm_id_from=333.999.0.0)英雄哥，发的视频比较偏娱乐。他csdn“夜深人静写算法”的收费专栏，我看过免费部分，感觉质量还是很高的。（英雄哥是hdu第一届打入worldfinal的）。[他的b站大号](https://space.bilibili.com/319521269?spm_id_from=333.999.0.0)。
@@ -151,17 +147,20 @@ acmer指的是，参加XCPC系列比赛的选手。
 
 #### 付费的
 
+[labuladong 的算法笔记](https://labuladong.online/algo/home/)网上风评不错，和代码随想录有点类似，但这网站做了代码可视化插件，更容易理解。[他的b站地址](https://space.bilibili.com/14089380?spm_id_from=333.999.0.0)。
+
 [英雄哥的专栏](https://blog.csdn.net/whereisherofrom/category_9273531.html)**999.98元**的价格，慎入，有钱随意。
 
 [AcWing](https://www.acwing.com/activity/)不少人说这个算法基础课不错，不过因为y总(网站老板)各种各样的原因，导致最近两年风评一般。你要是有闲钱，买这个基础课看看也无所谓。**200元**的售价。
 
-[Erik_Tse](https://space.bilibili.com/231911980?spm_id_from=333.999.0.0)喜欢卖课的e宝，经常恰蓝桥官方的米出点课。他的课比较便宜，有时候就**2,30元**，而且你可以加群问东西。
 
 #### 辅助工具
 
 [VisuAlgo](https://visualgo.net/zh)通过动画可视化数据结构和算法的网站，方便你理解各种算法。
 
 🥳[OI Wiki](https://oi-wiki.org//)算法届的百科全书。
+
+🥳[cp-algorithms.com](https://cp-algorithms.com/index.html)英文网站，有的算法原理讲的很好！比如KMP的文章，是我见过最好的！
 
 ### 实体书籍
 
@@ -171,13 +170,15 @@ acmer指的是，参加XCPC系列比赛的选手。
 
 [算法导论（麻省理工学院出版社）](https://baike.baidu.com/item/算法导论/1775186)。黑皮书，里面的数学论证较多，如果你喜欢严谨的论证，这本书一定很适合你。不过难度很大，**慎入**。
 
-《深入浅出程序设计竞赛 - 基础篇》- -洛谷。目前只出了基础篇，我看过，质量挺不错，十分基础，适合初学者。
+《深入浅出程序设计竞赛 - 基础篇》- -洛谷。目前只出了基础篇，我看过，质量挺不错，十分基础，适合初学者。马上进阶版也要出了，期待。
 
 《算法竞赛入门经典》-- 刘汝佳。紫书，我校acm选修课买的就是这本，还行。
 
 🥳《算法竞赛进阶指南》-- 李煜东。最近刚买了这本书，质量很不错，相当于一本刷题指南，有一定上手难度。
 
-## 工具软件
+## ide和插件
+
+### ide
 
 如果想了解可以看oiwiki对各种ide的介绍[OI Wiki (oi-wiki.org)](https://oi-wiki.org/tools/editor/)。
 
@@ -190,3 +191,22 @@ vscommunity，我一开始用过，太臃肿了，不适合算竞（，我校竟
 clion，我看我队友用的，debug十分的方便。不过你要是想改编译设置什么的，得稍微有点基础。
 
 其他的看oiwiki吧。
+
+### 插件
+
+#### vscode插件
+
+🥳cph judge。更方便测试样例
+
+#### 浏览器插件
+
+🥳[Codeforces better](https://chromewebstore.google.com/detail/codeforces-better-comment/dmkcpaljgkhdcachgfmplaoldejhafgn)， [AtCoder better](https://greasyfork.org/en/scripts/471106-atcoder-better)。提供页面翻译，题目翻译。让你使用Codeforces和AtCoder时更加舒心。
+
+🥳[力扣插件](https://github.com/XYShaoKang/refined-leetcode)实时预测周赛分，黑名单等功能。
+
+#### 安卓/windows应用
+
+🥳[ojhelper](https://github.com/2754LM/oj_helper)，查询各大oj近期比赛，获取你的Rating和题量，由于是本人开发，强烈推荐！
+
+🥳[CodeforcesContestHelper](https://github.com/CodeforcesContestHelper/CCHv2)功能很多，都是Codeforces相关。
+
