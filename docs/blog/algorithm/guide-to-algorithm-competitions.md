@@ -196,7 +196,7 @@ clion，我看我队友用的，debug十分的方便。不过你要是想改编�
 
 #### vscode插件
 
-🥳cph judge。更方便测试样例
+🥳cph judge。更方便测试样例。搭配上[一键拉取题目](https://github.com/jmerle/competitive-companion)一键把题目用例拉取到vscode。
 
 #### 浏览器插件
 
