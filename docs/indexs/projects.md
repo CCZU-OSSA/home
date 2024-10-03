@@ -13,13 +13,13 @@ comments: true
 
 ### 下载
 
-#### v1.2.6
+#### Latest
 
 [![ScreenShot](https://mirror.ghproxy.com/https://raw.githubusercontent.com/CCZU-OSSA/cczu-helper/main/doc/screenshot.png)](https://github.com/CCZU-OSSA/cczu-helper/releases/latest)
 
- - [普通安卓下载这个即可(android-armv8a)](https://github.com/CCZU-OSSA/cczu-helper/releases/download/1.2.4/app-arm64-v8a-release.apk)
- - [兼容版本(android-armall)](https://github.com/CCZU-OSSA/cczu-helper/releases/download/1.2.4/app-release.apk)
- - [Windows x64](https://github.com/CCZU-OSSA/cczu-helper/releases/download/1.2.4/windows-x64.zip)
+ - [普通安卓下载这个即可(android-armv8a)](https://github.com/CCZU-OSSA/cczu-helper/releases/latest/download/app-arm64-v8a-release.apk)
+ - [兼容版本(android-armall)](https://github.com/CCZU-OSSA/cczu-helper/releases/latest/download/app-release.apk)
+ - [Windows x64](https://github.com/CCZU-OSSA/cczu-helper/releases/latest/download/windows-x64.zip)
 
 如果下载太慢或者无法下载请打开 https://mirror.ghproxy.com 粘贴下载地址下载
 
