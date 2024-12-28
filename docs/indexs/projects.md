@@ -44,3 +44,12 @@ Get in Github: https://github.com/CCZU-OSSA/cczu-eva/releases/latest
     100% 线程安全、快速、灵活的 CCZU Rust API !
 
 仓库地址 https://github.com/CCZU-OSSA/cczuni
+
+## oj helper
+
+一款帮助你查询各大OJ信息的应用。
+
+仓库地址 https://github.com/2754LM/oj_helper
+
+[![ScreenShot](https://raw.githubusercontent.com/2754LM/oj_helper/main/doc/banner.png)](https://github.com/2754LM/oj_helper/releases/latest)
+
