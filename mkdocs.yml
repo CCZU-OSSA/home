@@ -27,6 +27,8 @@ nav:
       - pdf/index.md
       - CMCC校园网路由配置: pdf/cczu-cmcc-router.pdf
       - 常州大学认证计费软件操作手册: pdf/常州大学认证计费软件操作手册.pdf
+  - 关于协会:
+      - about/index.md
   - 留言板:
       - chat/index.md
 theme:
