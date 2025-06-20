@@ -1,10 +1,8 @@
----
-comments: true
----
-
-# 算法竞赛入门指北
+#  算法竞赛入门指北
 
 ## 前言
+
+善用目录。
 
 **QQ交流群**：311107699🥰
 
@@ -72,7 +70,7 @@ acmer指的是，参加XCPC系列比赛的选手。
 
 ### 回报
 
-🤣先说个最幻想的，如果你能打进WF，整个吊大的计算机分数线可能因你上涨10分，学校acm荣光崛起，暴打通大、苏科大、江科大等。（参考一几年hdu英雄哥，第一次打进WF，从此hdu的acm如日中天。）各种大厂求着你去，哪怕你去个算竞教培卖课，都是顶级的存在。
+🤣先说个最幻想的，如果你能打进WF，吊大acm荣光崛起，暴打通大、苏科大、江科大等。（参考一几年hdu英雄哥，第一次打进WF，从此hdu的acm如日中天。）各种大厂求着你去，哪怕你去个算竞教培卖课，都是顶级的存在。
 
 不过幻想总归是幻想，回到现实，我认为主要能获得以下几点：
 
@@ -115,13 +113,18 @@ acmer指的是，参加XCPC系列比赛的选手。
 
 ## 学习资源
 
+### 省流
+打XCPC必备CPP。
+
+想走JAVA就去看代码随想录/acwing刷力扣。
+
+没什么方向并且有时间感兴趣，把下文看完。
+
 ### 线上类
 
 #### 免费的
 
 🥳[代码随想录](https://programmercarl.com)带我入门的网站，卡哥的教程还是不错的，而且免费，b站还都有配套视频，各种语言都有。[他的b站地址](https://space.bilibili.com/525438321?spm_id_from=333.337.0.0)。
-
-🥳[labuladong 的算法笔记](https://labuladong.online/algo/home/)网上风评不错，和代码随想录有点类似，但这网站做了代码可视化插件，更容易理解。[他的b站地址](https://space.bilibili.com/14089380?spm_id_from=333.999.0.0)。
 
 下面的b站的各种up主：
 
@@ -139,7 +142,7 @@ acmer指的是，参加XCPC系列比赛的选手。
 
 下面的主要各种比赛的讲解up：
 
-🥳[RegenFallen](https://space.bilibili.com/23358007?spm_id_from=333.999.0.0)小码王的教练，群里氛围不错。如果你刚开始打codeforces和atc，看看他每场的题解也不错，讲的简单题，比较容易理解。
+[RegenFallen](https://space.bilibili.com/23358007?spm_id_from=333.999.0.0)小码王的教练，群里氛围不错。如果你刚开始打codeforces和atc，看看他每场的题解也不错，讲的简单题，比较容易理解。
 
 [幻想家协会会长](https://space.bilibili.com/55927668?spm_id_from=333.999.0.0)会讲cf和atc比较难的题，但个人感觉讲的没regen容易懂。但他最近开始搬运atc的4分钟题解，如果你不会上油管，也可以看看他的搬运。atc的题解还是很有意思的。
 
@@ -151,17 +154,20 @@ acmer指的是，参加XCPC系列比赛的选手。
 
 #### 付费的
 
+[labuladong 的算法笔记](https://labuladong.online/algo/home/)网上风评不错，和代码随想录有点类似，但这网站做了代码可视化插件，更容易理解。[他的b站地址](https://space.bilibili.com/14089380?spm_id_from=333.999.0.0)。
+
 [英雄哥的专栏](https://blog.csdn.net/whereisherofrom/category_9273531.html)**999.98元**的价格，慎入，有钱随意。
 
-[AcWing](https://www.acwing.com/activity/)不少人说这个算法基础课不错，不过因为y总(网站老板)各种各样的原因，导致最近两年风评一般。你要是有闲钱，买这个基础课看看也无所谓。**200元**的售价。
+🥳[AcWing](https://www.acwing.com/activity/)不少人说这个算法基础课不错，不过因为y总(网站老板)各种各样的原因，导致最近两年风评一般。你要是有闲钱，买这个基础课看看也无所谓。**200元**的售价。群文件中有学习版（。
 
-[Erik_Tse](https://space.bilibili.com/231911980?spm_id_from=333.999.0.0)喜欢卖课的e宝，经常恰蓝桥官方的米出点课。他的课比较便宜，有时候就**2,30元**，而且你可以加群问东西。
 
 #### 辅助工具
 
 [VisuAlgo](https://visualgo.net/zh)通过动画可视化数据结构和算法的网站，方便你理解各种算法。
 
 🥳[OI Wiki](https://oi-wiki.org//)算法届的百科全书。
+
+🥳[cp-algorithms.com](https://cp-algorithms.com/index.html)英文网站，有的算法原理讲的很好！比如KMP的文章，是我见过最好的！
 
 ### 实体书籍
 
@@ -171,13 +177,15 @@ acmer指的是，参加XCPC系列比赛的选手。
 
 [算法导论（麻省理工学院出版社）](https://baike.baidu.com/item/算法导论/1775186)。黑皮书，里面的数学论证较多，如果你喜欢严谨的论证，这本书一定很适合你。不过难度很大，**慎入**。
 
-《深入浅出程序设计竞赛 - 基础篇》- -洛谷。目前只出了基础篇，我看过，质量挺不错，十分基础，适合初学者。
+《深入浅出程序设计竞赛 - 基础篇》- -洛谷。目前只出了基础篇，我看过，质量挺不错，十分基础，适合初学者。马上进阶版也要出了，期待。
 
 《算法竞赛入门经典》-- 刘汝佳。紫书，我校acm选修课买的就是这本，还行。
 
 🥳《算法竞赛进阶指南》-- 李煜东。最近刚买了这本书，质量很不错，相当于一本刷题指南，有一定上手难度。
 
-## 工具软件
+## ide和插件
+
+### ide
 
 如果想了解可以看oiwiki对各种ide的介绍[OI Wiki (oi-wiki.org)](https://oi-wiki.org/tools/editor/)。
 
@@ -185,8 +193,27 @@ acmer指的是，参加XCPC系列比赛的选手。
 
 vscode，搭配上cph插件十分的好用，不过你要自己配一下环境。推荐配个wsl，wsl里操作比较方便捏。
 
-vscommunity，我一开始用过，太臃肿了，不适合算竞（，我校竟然还在用2010年的版本，实在逆天。
+vscommunity，太臃肿了，不适合算竞，一般开发用。
 
 clion，我看我队友用的，debug十分的方便。不过你要是想改编译设置什么的，得稍微有点基础。
 
 其他的看oiwiki吧。
+
+### 插件
+
+#### vscode插件
+
+🥳cph judge。更方便测试样例。搭配上[一键拉取题目](https://github.com/jmerle/competitive-companion)一键把题目用例拉取到vscode。
+
+#### 浏览器插件
+
+🥳[Codeforces better](https://chromewebstore.google.com/detail/codeforces-better-comment/dmkcpaljgkhdcachgfmplaoldejhafgn)， [AtCoder better](https://greasyfork.org/en/scripts/471106-atcoder-better)。提供页面翻译，题目翻译。让你使用Codeforces和AtCoder时更加舒心。
+
+🥳[力扣插件](https://github.com/XYShaoKang/refined-leetcode)实时预测周赛分，黑名单等功能。
+
+#### 安卓/windows应用
+
+🥳[ojhelper](https://github.com/2754LM/oj_helper)，查询各大oj近期比赛，获取你的Rating和题量，由于是本人开发，强烈推荐！
+
+🥳[CodeforcesContestHelper](https://github.com/CodeforcesContestHelper/CCHv2)功能很多，都是Codeforces相关。
+
