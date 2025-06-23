@@ -15,7 +15,7 @@ comments: true
 
 #### Latest
 
-[![ScreenShot](https://mirror.ghproxy.com/https://raw.githubusercontent.com/CCZU-OSSA/cczu-helper/main/doc/screenshot.png)](https://github.com/CCZU-OSSA/cczu-helper/releases/latest)
+[![ScreenShot](https://ghproxy.net/https://raw.githubusercontent.com/CCZU-OSSA/cczu-helper/main/doc/screenshot.png)](https://github.com/CCZU-OSSA/cczu-helper/releases/latest)
 
  - [普通安卓下载这个即可(android-armv8a)](https://github.com/CCZU-OSSA/cczu-helper/releases/latest/download/app-arm64-v8a-release.apk)
  - [兼容版本(android-armall)](https://github.com/CCZU-OSSA/cczu-helper/releases/latest/download/app-release.apk)
