@@ -16,7 +16,6 @@ OSSA与前辈OSA一样，成立的宗旨是传递开源精神与提高技术水�
 
 想来水群也可以加入，不排斥小白~
 
- - [QQ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=6wgGLJ_NmKQl7f9Ws6JAprbTwmG9Ouei&authKey=g7bXX%2Bn2dHlbecf%2B8QfGJ15IFVOmEdGTJuoLYfviLg7TZIsZCu45sngzZfL3KktN&noverify=0&group_code=947560153)
  - [Discord](https://discord.gg/hkkmsQaBGQ)
 
 ## 速览
