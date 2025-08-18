@@ -1,5 +1,14 @@
 # CCZU OSSA Home
 
+## 本地部署
+
+由于 commit 记录较多，建议使用`--depth 1`拉取
+
+```bash
+git clone https://github.com/CCZU-OSSA/home.git --depth 1
+./install.bat
+```
+
 ## 不是组织成员想贡献文章？
 
 [发布issues](https://github.com/CCZU-OSSA/home/issues) / [进行Pull requests](https://github.com/CCZU-OSSA/home/pulls)

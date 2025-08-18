@@ -21,8 +21,8 @@ OSSA与前辈OSA一样，成立的宗旨是传递开源精神与提高技术水�
 
 ## 速览
 
- - [我们的项目](./indexs/projects.md)
- - [新生入门指北](./indexs/for-fresher.md)
+ - [我们的项目](./index/projects.md)
+ - [新生入门指北](./index/for-fresher.md)
  - [算法入门指北](./blog/algorithm/guide-to-algorithm-competitions.md)
  - [我该学习什么技术](./blog/tech/what-to-learn.md)
 

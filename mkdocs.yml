@@ -10,9 +10,9 @@ edit_uri: edit/main/docs/
 nav:
   - 主页: index.md
   - 索引:
-      - indexs/for-fresher.md
-      - indexs/cczu-links.md
-      - indexs/projects.md
+      - index/for-fresher.md
+      - index/cczu-links.md
+      - index/projects.md
   - 博客:
       - blog/index.md
       - 软件相关:
